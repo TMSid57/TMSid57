@@ -1,6 +1,6 @@
-- 👋 Hi, I’m TM Siddiquee ( @TMSid57), an electrical engineer with 9 years of diverse experience.
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning SQL and Python.
+- 👋 Hi, I’m TM Siddiquee ( @TMSid57), an electrical engineer with 9 years of diverse experience in substation automation and project management.
+- 👀 I’m interested in Data Science and Machine Learning applications in energy systems.
+- 🌱 I’m currently learning SQL, Tableau, and Python and have hands-on experience in Excel.
 - 📫 Reach me @ tmsiddiquee57@gmail.com
 <!---
 TMSid57/TMSid57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
